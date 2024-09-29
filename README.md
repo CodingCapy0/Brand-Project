@@ -24,3 +24,4 @@ A computer vision app with great AI that will help you know and sort your waste
 step 1: Download the repository
 step 2: Create the enviroment for the code
 step 3: Download the librarys
+-once all this is done, ypu can enjoy pf your personal trash sorter
