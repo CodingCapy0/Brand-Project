@@ -16,7 +16,7 @@ A computer vision app with great AI that will help you know and sort your waste
 ## Tech used
 - google teachable machine
 - Keras
-- TensorFlow
+- TensorFlow 2.12.0 <--(this is a must)
 - PILLOW
 - numpy
 
