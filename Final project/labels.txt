@@ -1,0 +1,9 @@
+0 colourless plastic
+1 colored plastic
+2 cardboard
+3 Cloth and clothes
+4 wood
+5 paper
+6 glass
+7 tin 
+8 tetrapak
